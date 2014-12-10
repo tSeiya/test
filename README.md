@@ -5,4 +5,7 @@ Github repository for practice
 
 #追加テスト
 * test1
+  テスト１
+
 ** test2
+   テスト２
